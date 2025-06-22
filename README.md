@@ -22,6 +22,12 @@ This system helps recruiters:
 
 ---
 
+## 🧭 System Architecture
+
+<img width="760" alt="image" src="https://github.com/user-attachments/assets/76dc46e8-9d99-4111-8ac0-4b8a8f218359" />
+
+---
+
 ## 🧠 How It Works
 
 1. **Public Git Profiles → Ranked CSVs**
