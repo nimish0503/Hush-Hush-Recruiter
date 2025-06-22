@@ -8,10 +8,10 @@ st.set_page_config(layout="wide")
 
 # Database connection parameters
 DB_CONFIG = {
-    "host": "35.246.172.147",
-    "user": "root",
-    "password": "12345",
-    "database": "psanatics"
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": ""
 }
 
 # Table names
