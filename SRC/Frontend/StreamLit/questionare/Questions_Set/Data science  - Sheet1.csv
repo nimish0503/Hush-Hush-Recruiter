@@ -1,0 +1,50 @@
+1,Can you write a function that takes a string as input and returns the reversed version of that string?
+2,How would you read a CSV file into a Pandas DataFrame? Can you write the code to do that?
+3,"Suppose you have a DataFrame with a column named ""score."" How would you filter the rows where the ""score"" is greater than 80?"
+4,Write a function that checks if a given string is a palindrome (reads the same backward as forward).
+5,"If a DataFrame has missing values, how would you handle them? Can you write code to fill missing values with the mean of the column?"
+6,Write a function that takes a list of elements and returns a dictionary where the keys are the elements and the values are their frequencies.
+7,"How would you merge two DataFrames on a common column? Write the code to merge them based on the ""id"" column."
+8,Write a function that takes a list of numbers and returns the largest number in the list.
+9,"How would you group a DataFrame by a column (e.g., ""category"") and calculate the mean of another column (e.g., ""price"") for each group?"
+10,Write a function that removes duplicate elements from a list and returns the updated list.
+11,"How would you rename the columns of a DataFrame? Write the code to rename the columns ""A"" and ""B"" to ""X"" and ""Y."""
+12,Write a function that calculates the factorial of a given number.
+13,"How would you sort a DataFrame by a specific column (e.g., ""salary"") in descending order?"
+14,Write a function that checks if a given number is a prime number.
+15,"How would you drop a column named ""age"" from a DataFrame? Write the code to do that."
+16,Write a function that finds the length of the longest substring without repeating characters in a given string.
+17,"How would you apply a custom function to each row of a DataFrame? Write the code to apply a function that multiplies two columns (""A"" and ""B"") and stores the result in a new column."
+18,Write a function that takes a nested list and returns a flattened version of it.
+19,How would you handle categorical variables in a DataFrame? Write the code to convert a categorical column into dummy variables.
+20,"Write a function that finds the intersection of two lists (i.e., elements common to both lists)."
+21,"How would you calculate the correlation between two columns in a DataFrame? Write the code to calculate the correlation between ""height"" and ""weight."""
+22,Write a function that implements the binary search algorithm to find the index of a target value in a sorted list.
+23,"How would you pivot a DataFrame? Write the code to pivot a DataFrame where rows are ""dates,"" columns are ""categories,"" and values are ""sales."""
+24,Write a function that generates Fibonacci numbers up to a given limit.
+25,"How would you handle datetime data in a DataFrame? Write the code to extract the year from a ""date"" column."
+26,Write a function that checks if two strings are anagrams of each other.
+27,"How would you calculate rolling averages for a column in a DataFrame? Write the code to calculate a 7-day rolling average for a ""sales"" column."
+28,Write a function that finds the second largest number in a list.
+29,How would you concatenate two DataFrames vertically? Write the code to concatenate DataFrame A and DataFrame B.
+30,Write a function that implements the bubble sort algorithm to sort a list of numbers.
+31,"How would you calculate the cumulative sum of a column in a DataFrame? Write the code to calculate the cumulative sum of a ""revenue"" column."
+32,Write a function that counts the number of vowels in a given string.
+33,"How would you apply a lambda function to a DataFrame column? Write the code to apply a lambda function that squares the values in a ""numbers"" column."
+34,Write a function that finds the most frequent element in a list.
+35,How would you calculate the percentage of missing values in each column of a DataFrame? Write the code to do that.
+36,Write a function that implements the quicksort algorithm to sort a list of numbers.
+37,How would you optimize memory usage for a large DataFrame? Write the code to reduce memory usage by converting column data types.
+38,Write a function that solves the knapsack problem using dynamic programming.
+39,How would you handle an imbalanced dataset in a DataFrame? Write the code to balance the dataset using oversampling or undersampling.
+40,"Write a function that implements a linked list data structure with methods to add, remove, and traverse nodes."
+41,How would you perform feature engineering on a dataset? Write the code to create a new feature by combining two existing columns.
+42,"Write a function that implements a graph traversal algorithm (e.g., BFS or DFS) to find the shortest path between two nodes."
+43,How would you handle multicollinearity in a dataset? Write the code to calculate the variance inflation factor (VIF) for each feature.
+44,Write a function that implements a simple neural network from scratch using NumPy for binary classification.
+45,"How would you perform time-series analysis on a dataset? Write the code to decompose a time-series column into trend, seasonality, and residuals."
+46,Write a function that implements gradient descent to optimize the parameters of a linear regression model.
+47,How would you perform cross-validation on a dataset? Write the code to split the data into training and validation sets using K-fold cross-validation.
+48,Write a function that implements a decision tree classifier from scratch using Python.
+49,How would you handle outliers in a dataset? Write the code to detect and remove outliers using the IQR method.
+50,Write a function that implements a simple recommendation system using collaborative filtering.

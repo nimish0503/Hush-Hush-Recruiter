@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HR Interview Invitation - Doodle.inc</title>
+</head>
+<body style="margin: 0; font-family: Arial, sans-serif;">
+    <div style="width: 100%; text-align: center;">
+        <img src="https://github.com/samhitha101/bigdata_images/blob/main/1.png?raw=true" alt="Header Image" style="display: block; width: 100%; max-width: 600px; height: auto;">
+    </div>
+    <div style="padding: 20px;">
+        Dear {{ candidate_name }},
+        We're thrilled to inform you that you've successfully cleared the technical round and have been selected for an interview with our HR team at Doodle.inc! Congratulations on making it to this stage.
+        To schedule your interview, please choose from the following available dates and times:
+        <ul style="list-style-type: disc;">{% for date in interview_dates %}<li>{{ date }}</li>{% endfor %}</ul>
+        If none of these options work with your schedule, please reply to this email directly, or contact our HR representative at 
+        <a href="mailto:madara.uchiha.doodle@gmail.com" style="color: #007bff; text-decoration: none;">madara.uchiha.doodle@gmail.com</a>
+        We're excited to learn more about you and discuss your potential at Doodle.inc.
+        We look forward to meeting you!
+
+        Best regards,
+        The Doodle.inc Hiring Team
+    </div>
+    <div style="width: 100%; text-align: center;">
+        <img src="https://github.com/samhitha101/bigdata_images/blob/main/2.png?raw=true" alt="Footer Image" style="display: block; width: 100%; max-width: 600px; height: auto;">
+    </div>
+</body>
+</html>

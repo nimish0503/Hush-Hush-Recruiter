@@ -1,0 +1,50 @@
+1,"Write the basic structure of an HTML5 document. Include the `DOCTYPE`, `html`, `head`, and `body` tags."
+2,"How do you create a hyperlink in HTML? Write the code to link to ""https://example.com"" with the text ""Visit Example."""
+3,"How do you add an image to a webpage? Write the code to display an image named ""logo.png"" with an alternate text ""Company Logo."""
+4,Write the CSS to center a `div` horizontally and vertically on a webpage.
+5,How do you change the background color of a webpage to light blue using CSS?
+6,Write the CSS to make all paragraphs (`<p>`) have a font size of 16px and a font color of dark gray.
+7,"Write a JavaScript function to display an alert box with the message ""Hello, World!"" when a button is clicked."
+8,Write a JavaScript function to add two numbers and return the result.
+9,"How do you select an HTML element with the ID ""myElement"" using JavaScript? Write the code to change its text content to ""Updated Text."""
+10,Write a JavaScript function to check if a number is even or odd.
+11,How do you make an image responsive so that it scales with the size of the screen? Write the CSS for this.
+12,"Write the HTML and CSS to create a simple navigation bar with three links: Home, About, and Contact."
+13,What is the difference between `localStorage` and `sessionStorage`? Write an example of storing and retrieving data using `localStorage`.
+14,"How do you include an external JavaScript file in an HTML document? Write the code to include a file named ""script.js."""
+15,How would you debug a JavaScript error in the browser? Explain the steps and tools you would use.
+16,"How do you create a form with fields for name, email, and a submit button? Write the HTML code for this form."
+17,Write the CSS to create a grid layout with three columns of equal width.
+18,How do you create a CSS animation that changes the background color of a `div` from red to blue over 3 seconds?
+19,Write a JavaScript function to find the largest number in an array.
+20,Write a JavaScript function to reverse a string without using built-in methods like `reverse()`.
+21,How do you handle asynchronous operations in JavaScript? Write an example using `async/await`.
+22,"Write a JavaScript function to fetch data from an API (e.g., ""https://api.example.com/data"") and log the response to the console."
+23,"How do you add an event listener to a button with the ID ""myButton""? Write the code to log ""Button clicked"" when the button is clicked."
+24,Write the CSS to create a responsive layout that displays two columns on desktop and one column on mobile.
+25,How do you use media queries to change the font size of a webpage for screens smaller than 600px? Write the CSS for this.
+26,"Write a React component that displays a button and logs ""Button clicked"" when the button is clicked."
+27,How do you create a two-way data binding in Angular? Write an example using `ngModel`.
+28,Write a Vue.js component that displays a list of items passed as a prop.
+29,"How do you handle cookies in JavaScript? Write the code to set, read, and delete a cookie named ""userToken."""
+30,"What is CORS, and how do you handle it in a web application? Explain with an example."
+31,How would you debug a layout issue in CSS? Explain the steps and tools you would use.
+32,How do you resolve a merge conflict in Git? Explain the steps.
+33,"Write the Git commands to create a new branch, commit changes, and push the branch to a remote repository."
+34,What is the difference between `GET` and `POST` requests? Write an example of each using `fetch` in JavaScript.
+35,How do you handle errors in an API call? Write an example using `fetch` and `try/catch`.
+36,Write a JavaScript function to implement debouncing for a search input field.
+37,Write a JavaScript function to implement throttling for a scroll event.
+38,"How do you optimize the performance of a web application? Explain techniques like lazy loading, code splitting, and caching."
+39,Write a React component that fetches data from an API and displays it in a list. Handle loading and error states.
+40,How do you manage state in a large React application? Explain the use of Redux or Context API.
+41,Write an Angular service to fetch data from an API and handle errors.
+42,How do you implement routing in Vue.js? Write an example with two routes: Home and About.
+43,How do you create a responsive design without using media queries? Explain and write an example using CSS Grid or Flexbox.
+44,"How do you optimize CSS for performance? Explain techniques like minification, critical CSS, and removing unused CSS."
+45,"How do you secure an API? Explain techniques like JWT, OAuth, and CORS."
+46,Write a Node.js server using Express to handle `GET` and `POST` requests for a simple to-do list API.
+47,How do you measure and improve the performance of a web application? Explain tools like Lighthouse and WebPageTest.
+48,How do you prevent XSS (Cross-Site Scripting) attacks in a web application? Explain with an example.
+49,How do you prevent SQL injection in a backend application? Explain with an example.
+50,"How would you design a scalable web application? Explain the architecture, including load balancing, caching, and database sharding."

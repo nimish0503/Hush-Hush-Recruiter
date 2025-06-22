@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Schedule HR Interview: {{ candidate_name }} - {{ job_title }}</title>
+</head>
+<body>
+    <div style="width: 100%; text-align: center;">
+        <img src="https://github.com/samhitha101/bigdata_images/blob/main/1.png?raw=true" alt="Header Image" style="display: block; width: 100%; max-width: 600px; height: auto;">
+    </div>
+    <div>
+        Hi Team,<br><br>
+        Please schedule an HR interview for {{ candidate_name }}, who has been selected to move forward in the interview process for the {{ job_title }} role at Doodle.inc.<br><br>
+        Here's the candidate's information:
+        <ul>
+            <li><b>Name:</b> {{ candidate_name }}</li>
+            <li><b>Email:</b> {{ candidate_email }}</li>
+        </ul>
+        The candidate has provided the following availability for interviews:
+        <ul>
+            {% for date in interview_dates %}
+                <li>{{ date }}</li>
+            {% endfor %}
+        </ul>
+        Kindly reach out to the candidate at {{ candidate_email }} to coordinate a mutually convenient interview time within the provided dates. Aim for a [30-45] minute interview. Once the schedule is confirmed, please send a calendar invitation with all the necessary details.<br><br>
+        If you have any questions, please do not hesitate to reach out to the Recruiting team.<br><br>
+        Thanks,<br>
+        The Doodle.inc Recruiting Team<br><br>
+        <div style="width: 100%; text-align: center;">
+            <img src="https://github.com/samhitha101/bigdata_images/blob/main/2.png?raw=true" alt="Footer Image" style="display: block; width: 100%; max-width: 600px; height: auto;">
+        </div>
+    </div>
+</body>
+</html>

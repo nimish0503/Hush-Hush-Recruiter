@@ -1,0 +1,50 @@
+1,"Write a Java program to reverse a string. For example, if the input is ""hello,"" the output should be ""olleh."""
+2,Write a Java program to check if a given number is even or odd.
+3,Write a Java program to find the largest of three numbers.
+4,Write a Java program to calculate the factorial of a number using recursion.
+5,"Write a Java program to check if a string is a palindrome (e.g., ""madam"")."
+6,Write a Java program to store a list of integers in an ArrayList and print them.
+7,Write a Java program to remove duplicates from an ArrayList.
+8,Explain the difference between `==` and `.equals()` in Java with an example.
+9,"Write a Java class called `Person` with attributes `name` and `age`, and include a method to display the details."
+10,What is the difference between an abstract class and an interface in Java? Provide an example of each.
+11,Write a Java program to count the number of vowels in a string.
+12,Write a Java program to concatenate two strings without using the `+` operator.
+13,Write a Java program to find the sum of all elements in an array.
+14,Write a Java program to sort an array of integers in ascending order.
+15,Write a Java program to handle a `DivideByZeroException` when dividing two numbers.
+16,Write a Java program to sort a HashMap by its values.
+17,Write a Java program to iterate through a HashMap and print its keys and values.
+18,Write a Java program to demonstrate polymorphism using method overriding.
+19,Write a Java program to demonstrate the use of the `super` keyword in inheritance.
+20,Write a Java program to implement a singleton class.
+21,"Write a Java program to create two threads, where one thread prints even numbers and the other prints odd numbers."
+22,Write a Java program to demonstrate the use of the `synchronized` keyword.
+23,Write a Java program to read a text file and count the number of lines in it.
+24,Write a Java program to write data to a text file.
+25,Write a Java program to find the longest substring without repeating characters.
+26,Write a Java program to check if two strings are anagrams of each other.
+27,Write a Java program to find the second largest number in an array.
+28,Write a Java program to merge two sorted arrays into a single sorted array.
+29,Write a Java program to create a custom exception class and throw it in a method.
+30,Write a Java program to create a generic method that can accept any type of array and print its elements.
+31,Write a Java program to filter a list of integers and print only the even numbers using Java Streams.
+32,Write a Java program to find the sum of all elements in a list using Java Streams.
+33,Write a Java program to sort a list of strings using a lambda expression.
+34,Write a Java program to implement a functional interface using a lambda expression.
+35,Write a Java program to implement the Factory Design Pattern.
+36,Write a Java program to implement a producer-consumer problem using `wait()` and `notify()`.
+37,Write a Java program to implement a thread pool using `ExecutorService`.
+38,Write a Java program to implement a custom LinkedList class in Java.
+39,Write a Java program to implement a custom HashMap class in Java.
+40,Write a Java program to implement the Builder Design Pattern.
+41,Write a Java program to implement the Observer Design Pattern.
+42,Write a Java program to implement the quicksort algorithm.
+43,Write a Java program to implement the binary search algorithm.
+44,Write a Java program to solve the knapsack problem using dynamic programming.
+45,Write a Java program to find the longest common subsequence (LCS) between two strings.
+46,Write a Java program to implement a deadlock scenario and then resolve it.
+47,Write a Java program to implement a read-write lock using `ReentrantReadWriteLock`.
+48,Write a Java program to demonstrate the use of weak references.
+49,Write a Java program to demonstrate memory leaks and how to avoid them.
+50,Write a Java program to implement the Decorator Design Pattern.
